@@ -1,4 +1,6 @@
-# What Is This?
+![demo image unavailable](demo_screenshot.png)
+
+# Meet In The Middle
 Your friend and you want to meet at a location that's "optimal", i.e. 
 minimises both of your effort in travelling there (see below for precise 
 definitions). This program calculates candidate locations and routes to 
